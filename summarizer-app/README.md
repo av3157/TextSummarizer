@@ -36,4 +36,4 @@ To run the Streamlit application, execute the following command in your terminal
 streamlit run src/app.py
 ```
 
-Once the application is running, you can enter your text in the provided textbox, and the summarized version will be displayed below.
+Once the application is running, you can enter your text in the provided textbox, a desired length of summary, and the summarized version will be displayed below.
