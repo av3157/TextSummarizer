@@ -27,6 +27,7 @@ To set up the project, follow these steps:
    ```
    pip install -r requirements.txt
    ```
+   Make sure your python version is greater than 3.8.
 
 ## Usage
 
