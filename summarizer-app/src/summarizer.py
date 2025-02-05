@@ -4,7 +4,7 @@ from langchain.prompts import PromptTemplate
 
 def summarize_text(text, number):
     # Initialize the OpenAI model
-    llm = OpenAI(openai_api_key="sk-svcacct-38lVsQJmAnpHYYGlwHLRfemYH6XipJ83Bn4AHnE19lo8NioSbNQshLh_0Ie6gFHT3BlbkFJgi4LuRlCOMye2qnlGRAGY4_JQCoLousyuBpUsrPte0HftMthAZWRdreWw1EFRdQA")
+    llm = OpenAI(openai_api_key="insert key here")
 
 
     prompt = PromptTemplate.from_template(
