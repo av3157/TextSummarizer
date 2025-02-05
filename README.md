@@ -6,11 +6,11 @@ This is a simple Streamlit web application that allows users to input text and r
 
 ```
 summarizer-app
+summarizer-app
 ├── src
 │   ├── app.py          # Main entry point of the Streamlit application
 │   └── summarizer.py   # Contains the logic for summarizing text
-├── requirements.txt    # Lists the dependencies required for the project
-└── README.md           # Documentation for the project
+└── requirements.txt    # Lists the dependencies required for the project
 ```
 
 ## Installation
